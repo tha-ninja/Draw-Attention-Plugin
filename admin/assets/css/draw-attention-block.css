@@ -1,0 +1,20 @@
+.hotspots-container .hotspots-placeholder,
+.hotspots-container .hotspot-info,
+.hotspots-container .da-error {
+	display: none;
+}
+
+.hotspots-container img[usemap],
+.hotspots-container map area {
+	outline: none;
+}
+
+.hotspots-container map area {
+	display: none;
+}
+
+.wp-block-draw-attention-image img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
