@@ -341,6 +341,10 @@ if ( ! class_exists( 'DrawAttention' ) ) {
 			}
 		}
 
+
+		
+		
+
 		function php_52_notice() {
 			global $pagenow;
 			if ( $pagenow != 'post.php' ) {
